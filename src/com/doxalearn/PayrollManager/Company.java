@@ -12,6 +12,12 @@ public class Company {
         this.address = address;
     }
 
+    public Company(String name, Address address, List<Department> departments) {
+        this.name = name;
+        this.address = address;
+        this.departments = departments;
+    }
+
     public String getName() {
         return name;
     }

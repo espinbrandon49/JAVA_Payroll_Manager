@@ -14,9 +14,10 @@ public class SalariedEmployee extends Employee {
         super(name);
     }
 
-    public SalariedEmployee(String name, double salary) {
+    public SalariedEmployee(String name, double salary, Department dept) {
         super(name);
         this.salary = salary;
+        this.department = dept;
     }
 
     @Override

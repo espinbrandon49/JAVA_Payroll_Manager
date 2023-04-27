@@ -10,11 +10,13 @@ public class Department {
         this.name = name;
     }
 
-    public String getName() {
+    public String getDepartment() {
         return name;
     }
 
     public ArrayList<Employee> getEmployees() {
         return employees;
     }
+
+
 }
