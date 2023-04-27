@@ -1,0 +1,53 @@
+			ABC Company
+	Name: Bob Sawyer - EmployeeId: 0
+	Pay Date 	04/26/2023
+	Gross Salary $65000.00
+	Net Salary $45500.00
+
+			ABC Company
+	Name: Jane White - EmployeeId: 1
+	Pay Date 	04/26/2023
+	Gross Salary $57000.00
+	Net Salary $39900.00
+
+			ABC Company
+	Name: Joe Brown - EmployeeId: 2
+	Pay Date 	04/26/2023
+	Gross Salary $50000.00
+	Net Salary $35000.00
+
+			ABC Company
+	Name: Brandon Mikes - EmployeeId: 3
+	Pay Date 	04/26/2023
+	Pay rate $7.75
+	Hour Worked 40
+	Net Salary $310.00
+
+			ABC Company
+	Name: Sarah Jones - EmployeeId: 4
+	Pay Date 	04/26/2023
+	Pay rate $7.75
+	Hour Worked 30
+	Net Salary $232.50
+
+			ABC Company
+	Name: Bpb Sagat - EmployeeId: 5
+	Pay Date 	04/26/2023
+	Pay rate $7.75
+	Hour Worked 40
+	Net Salary $310.00
+
+			Bob's Big Boys
+	TO: ABC Company
+	Invoice Date 	04/26/2023
+	Hour Worked 100
+	Cost of Parts $.2f
+	Total $3000.00
+
+			Royal Plumbing
+	TO: ABC Company
+	Invoice Date 	04/26/2023
+	Hour Worked 43
+	Cost of Parts $.2f
+	Total $8000.54
+
